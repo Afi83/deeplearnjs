@@ -1,0 +1,48 @@
+{
+  "hidden1/bias": {
+    "filename": "hidden1_bias",
+    "shape": [
+      300
+    ]
+  },
+  "hidden1/kernel": {
+    "filename": "hidden1_kernel",
+    "shape": [
+      784,
+      300
+    ]
+  },
+  "hidden2/bias": {
+    "filename": "hidden2_bias",
+    "shape": [
+      100
+    ]
+  },
+  "hidden2/kernel": {
+    "filename": "hidden2_kernel",
+    "shape": [
+      300,
+      100
+    ]
+  },
+  "logistic_regression/model/theta": {
+    "filename": "logistic_regression_model_theta",
+    "shape": [
+      7,
+      1
+    ]
+  },
+  "outputs/bias": {
+    "filename": "outputs_bias",
+    "shape": [
+      10
+    ]
+  },
+  "outputs/kernel": {
+    "filename": "outputs_kernel",
+    "shape": [
+      100,
+      10
+    ]
+  }
+}
